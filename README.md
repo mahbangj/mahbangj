@@ -7,7 +7,7 @@
 - 🔍 Passionate about Research, Robotics, Artificial inteligence and Biomedical engineering.
 
 
-##  You can reach me via: ...
+##  You can reach me via: 
 
 <div align="left">
 <p> 
