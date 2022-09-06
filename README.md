@@ -4,7 +4,7 @@
 - 👋 I’m Mahban.
 - 📘 I am currently studying Electrical Engineering at Amirkabir University of Technology
 - 🖥️ Working as an IoT Engineer at TecNikan Co.
-- 🔍 Passionate about Research, Robotics, Artificial inteligence and Biomedical engineering.
+- 🔍 Passionate about Research, Robotics, Artificial inteligence, Digital Signal Processing and Biomedical engineering.
 
 
 ##  You can reach me via: 
